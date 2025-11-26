@@ -53,4 +53,9 @@
       <url>https://github.com/claucambra/BrickBuster/releases/tag/1.0</url>
     </release>
   </releases>
+  <keywords>
+    <keyword>brick-breaker</keyword>
+    <keyword>puzzle game</keyword>
+    <keyword>fun games</keyword>
+  </keywords>
 </component>
