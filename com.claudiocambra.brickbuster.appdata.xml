@@ -3,7 +3,7 @@
   - SPDX-License-Identifier: CC0-1.0
   - SPDX-FileCopyrightText: 2021 Claudio Cambra <claudio.cambra@gmail.com>
  -->
-<component type="desktop">
+<component type="desktop-application">
   <id>com.claudiocambra.brickbuster</id>
   <provides>
     <binary>brickbuster_linux.x86_64</binary>
@@ -15,9 +15,8 @@
   </description>
   <url type="homepage">https://github.com/claucambra/BrickBuster</url>
   <url type="bugtracker">https://github.com/claucambra/BrickBuster/issues</url>
-  <categories>
-    <category>Games</category>
-  </categories>
+  <url type="vcs-browser">https://github.com/claucambra/BrickBuster</url>
+  <launchable type="desktop-id">com.claudiocambra.brickbuster.desktop</launchable>
   <developer_name>Claudio Cambra</developer_name>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0</project_license>
