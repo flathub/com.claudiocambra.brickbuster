@@ -24,7 +24,6 @@
                 {
                     "type": "file",
                     "url": "https://github.com/claucambra/BrickBuster/releases/download/1.0/brickbuster_linux.x86_64",
-                    "tag": "1.0",
                     "sha256": "dbca7ed60428ef911847447035589a7581d71e30c99c1910a19fac95dce16550"
                 },
                 {
