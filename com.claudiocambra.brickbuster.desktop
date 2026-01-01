@@ -8,4 +8,4 @@ Exec=brickbuster_linux.x86_64
 Terminal=false
 Icon=com.claudiocambra.brickbuster
 Type=Application
-Categories=Games;
+Categories=Game;
